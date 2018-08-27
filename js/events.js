@@ -26,6 +26,6 @@ function submitIt() {
 }
 
 $(document).ready(function(){
-   getIt()
-
+   getIt();
+frameIt();
 });
